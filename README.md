@@ -6,9 +6,9 @@ Source Code: [https://github.com/yunjey/pytorch-tutorial/](https://github.com/yu
 这个代码使用的总体流程是：
 
 - 创建词库： build_vocab.py
-- 压缩图片: resize.py
-- 训练模型: train.py
-- 测试: sample.py
+- 压缩图片： resize.py
+- 训练模型： train.py
+- 测试：    sample.py
 
 这四个步骤均单独顺序进行
 
